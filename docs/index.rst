@@ -6,7 +6,7 @@ bringing a fresh new look, improved performance, and better security features.
 Whether you're upgrading from Windows 10 or setting up a new device, downloading 
 Windows 11 safely and correctly is essential for a smooth experience. 😌
 
-.. image:: start.png
+.. image:: download-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
