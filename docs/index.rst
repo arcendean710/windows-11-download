@@ -96,10 +96,6 @@ If your PC is unsupported — for example, missing TPM 2.0 or Secure Boot —
 it’s still possible to **install Windows 11** using some workarounds. Some users 
 use tools like Rufus or modify registry keys during installation to bypass checks.
 
-.. warning::
-
-   This method is not officially supported and may void support or cause issues later. 
-   Proceed at your own risk and always back up your files.
 
 After You Download Windows 11 🔄
 -------------------------------
